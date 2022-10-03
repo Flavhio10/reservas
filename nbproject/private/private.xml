@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroQuarto.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Modelo/Quartos.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Controle/ControleOcupacao.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/DAO/OcupacaoDAO.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/DAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Modelo/Ocupacao.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroCheckout.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/DAO/QuartoDAO.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroCheckin.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroReserva.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Modelo/Clientes.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroClientes.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/CadastroWalkin.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Controle/ControleCliente.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Visao/Principal.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/DAO/ReservaDAO.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Modelo/persistencia/ConnectionFactory.java</file>
+            <file>file:/C:/Users/Flávio/Documents/NetBeansProjects/Reserva%20de%20Hotel/src/Controle/ControleReservas.java</file>
+        </group>
+    </open-files>
+</project-private>
